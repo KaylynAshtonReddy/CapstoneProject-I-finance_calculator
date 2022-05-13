@@ -11,7 +11,6 @@ The investment calculator has options to calculate simple or compound interest g
 The bond repayment calculator takes in the property value, interest rate and payment period (in months) to calculate what one would need to pay every month to pay off the bond.
 
 ## Dependencies
-- import the Python built-in Math module.
 - Running the program
 - Run the .py file in any Python IDE.
 
