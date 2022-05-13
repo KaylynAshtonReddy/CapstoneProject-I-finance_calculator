@@ -16,4 +16,4 @@ The bond repayment calculator takes in the property value, interest rate and pay
 - Run the .py file in any Python IDE.
 
 ## Preview
-
+![finance_calculator Preview](https://user-images.githubusercontent.com/102606725/168375800-51660082-8964-43d2-8c91-b4fd1019493b.png)
